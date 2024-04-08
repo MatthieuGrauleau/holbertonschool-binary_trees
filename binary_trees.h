@@ -3,7 +3,7 @@
 #include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "../../../usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h"
+
 /**
  * struct binary_tree_s - Binary tree node
  *
